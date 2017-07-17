@@ -1,8 +1,15 @@
-# Welcome to the JavaScript Guild!
+# BookTalky
 
-As members of the JavaScript guild, you will be working through the challenges of TwilioQuest using server-side JavaScript, specifically [node.js](http://www.nodejs.org).  This project is pre-configured to do some interesting Twilio stuff using node.js and the [Express](http://expressjs.com/) web framework.
+https://twitter.com/RHoK_Delhi/status/886550109009223684
 
-## Setting Up
+Built @ Random Hacks of Kindness, Delhi 
+
+### Further resources for imporvement
+
+Education Ministry already has done a lot of work
+http://epathshala.nic.in/e-pathshala-4/e-resources-2/?opt_class=Senior+Secondary&opt_lang=English&opt_type=audio&search=Search&searching_text=
+
+## Setting Up the code
 
 We assume that before you begin, you will have [node.js and npm](http://www.nodejs.org) and installed on your system.  Before you can run this project, you will need to set three system environment variables.  These are:
 
@@ -38,5 +45,3 @@ Now, you should be able to launch the application.  From your terminal, run `nod
 
 If your phone receives both a call and text message, you're good to go!
 
-## Begin Questing!
-This is but your first step into a larger world.  [Return to TwilioQuest](http://quest.twilio.com) to continue your adventure.  Huzzah!
