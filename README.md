@@ -1,13 +1,12 @@
 # BookTalky
 
-https://twitter.com/RHoK_Delhi/status/886550109009223684
 
-Built @ Random Hacks of Kindness, Delhi 
+
+Built @ [Random Hacks of Kindness, Delhi](https://twitter.com/RHoK_Delhi/status/886550109009223684) 
 
 ### Further resources for imporvement
 
-Education Ministry already has done a lot of work
-http://epathshala.nic.in/e-pathshala-4/e-resources-2/?opt_class=Senior+Secondary&opt_lang=English&opt_type=audio&search=Search&searching_text=
+Education Ministry already has done a lot of [work](http://epathshala.nic.in/e-pathshala-4/e-resources-2/?opt_class=Senior+Secondary&opt_lang=English&opt_type=audio&search=Search&searching_text=)
 
 ## Setting Up the code
 
@@ -33,15 +32,13 @@ On Windows, the easiest way to set permanent environment variables (as of Window
 
 ## Running the application
 
-[Download the project source code directly](https://github.com/twilio/starter-node/archive/master.zip) or [clone the repository on GitHub](https://github.com/twilio/starter-node).  Navigate to the folder with the source code on your machine in a terminal window.
-
+[Download the project source code directly](https://github.com/kunsachdeva/RHoK1/archive/master.zip) or [clone the repository on GitHub](https://github.com/kunsachdeva/RHoK1).
+Navigate to the folder with the source code on your machine in a terminal window.
 You will first need to install the application's dependencies.  You can do this using npm, the bundled package manager for node.js:
 
     npm install
+    node app
 
-Now, you should be able to launch the application.  From your terminal, run `node app.js`.  This should launch your Express application on port 3000 - [visit that URL on your local host](http://localhost:3000/).  Enter your mobile number in the fields provided, and test both SMS text messages and phone calls being sent to the mobile number you provide.  The web UI should look something like this:
-
-![node ui](http://demo.kevinwhinnery.com/upload/Welcome_to_the_JavaScript_Guild%21-20130827-144946.png)
+Now, you should be able to launch the application.  From your terminal, run `node app.js`.  This should launch your Express application on port 3000 - [visit that URL on your local host](http://localhost:3000/).  Enter your mobile number in the fields provided, and test both SMS text messages and phone calls being sent to the mobile number you provide.
 
 If your phone receives both a call and text message, you're good to go!
-
